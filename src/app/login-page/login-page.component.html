@@ -1,0 +1,23 @@
+
+<p>Students Details</p>
+<nav class="navbar">
+    <input class="form-control "type="text" name="StudentName" [(ngModel)]="StudentName" (ngModelChange)="Search()" 
+   placeholder="Enter the name to search" >
+</nav>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>StudentId</th>
+            <th>StudentName</th>
+            <th>StudentMarks</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let stu of student|paginate:{itemsPerPage:5,currentPage:pageNumber};">
+            <td>{{stu.StudentId}}</td>
+            <td>{{stu.StudentName}}</td>
+            <td>{{stu.StudentMarks}}</td>
+        </tr>
+    </tbody>
+    <pagination-controls (pageChange)="pageNumber= $event"></pagination-controls>
+</table>

@@ -1,0 +1,98 @@
+{"Students":[{
+    "StudentId":1,
+    "StudentName":"Renu",
+    "StudentMarks":90
+},
+{
+    "StudentId":2,
+    "StudentName":"venkata",
+    "StudentMarks":80
+},
+{
+    "StudentId":3,
+    "StudentName":"sai",
+    "StudentMarks":89
+},
+{
+    "StudentId":4,
+    "StudentName":"sri",
+    "StudentMarks":81
+},
+{
+    "StudentId":5,
+    "StudentName":"ram",
+    "StudentMarks":79
+}
+,{
+    "StudentId":6,
+    "StudentName":"shriram",
+    "StudentMarks":80
+}
+,{
+    "StudentId":7,
+    "StudentName":"Aditya",
+    "StudentMarks":75
+}
+,{
+    "StudentId":8,
+    "StudentName":"venkatesha",
+    "StudentMarks":70
+}
+,{
+    "StudentId":9,
+    "StudentName":"yamini",
+    "StudentMarks":97
+}
+,{
+    "StudentId":10,
+    "StudentName":"harini",
+    "StudentMarks":91
+}
+,{
+    "StudentId":11,
+    "StudentName":"kumar",
+    "StudentMarks":87
+}
+,{
+    "StudentId":12,
+    "StudentName":"Renuka",
+    "StudentMarks":90
+}
+,{
+    "StudentId":13,
+    "StudentName":"harinath",
+    "StudentMarks":78
+}
+,{
+    "StudentId":14,
+    "StudentName":"uma",
+    "StudentMarks":88
+},
+{
+    "StudentId":15,
+    "StudentName":"somabhatta",
+    "StudentMarks":99
+},
+{
+    "StudentId":16,
+    "StudentName":"irfan",
+    "StudentMarks":77
+},
+{
+    "StudentId":17,
+    "StudentName":"samhi",
+    "StudentMarks":76
+},{
+    "StudentId":18,
+    "StudentName":"yuvaraj",
+    "StudentMarks":80
+},{
+    "StudentId":19,
+    "StudentName":"samarat",
+    "StudentMarks":70
+},{
+    "StudentId":20,
+    "StudentName":"sanjay",
+    "StudentMarks":90
+}
+]}
